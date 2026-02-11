@@ -1,0 +1,148 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>In-Person Piano Lessons in Los Angeles</title>
+  <meta name="description" content="In-person piano lessons in Los Angeles for kids and adults. Berklee-trained teacher with experience teaching autistic and neurodivergent students." />
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      color: #1f2937;
+      background: #ffffff;
+      line-height: 1.6;
+    }
+    header {
+      background: #111827;
+      color: #ffffff;
+      padding: 3rem 1.5rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.2rem;
+      margin-bottom: 0.5rem;
+    }
+    header p {
+      font-size: 1.1rem;
+      max-width: 700px;
+      margin: 0 auto 1.5rem;
+      color: #e5e7eb;
+    }
+    .cta-btn {
+      display: inline-block;
+      background: #facc15;
+      color: #111827;
+      padding: 0.75rem 1.5rem;
+      border-radius: 6px;
+      font-weight: 600;
+      text-decoration: none;
+    }
+    section {
+      padding: 3rem 1.5rem;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    section h2 {
+      font-size: 1.6rem;
+      margin-bottom: 1rem;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    li {
+      margin-bottom: 0.5rem;
+    }
+    .highlight {
+      background: #f9fafb;
+      border-radius: 8px;
+      padding: 2rem;
+    }
+    .rates {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1rem;
+      margin-top: 1.5rem;
+    }
+    .rate-card {
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      padding: 1.5rem;
+      text-align: center;
+    }
+    footer {
+      background: #f3f4f6;
+      text-align: center;
+      padding: 2rem 1.5rem;
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>In-Person Piano Lessons in Los Angeles</h1>
+  <p>Private, patient instruction for children and adults. Berklee-trained piano teacher with experience teaching autistic and neurodivergent students.</p>
+  <a class="cta-btn" href="tel:+16177673786">Call or Text to Book</a>
+</header>
+
+<section>
+  <h2>Who These Lessons Are For</h2>
+  <ul>
+    <li>Children, teens, and adults</li>
+    <li>Beginners and returning students</li>
+    <li>Autistic and neurodivergent students</li>
+    <li>Students who benefit from a calm, structured approach</li>
+  </ul>
+</section>
+
+<section class="highlight">
+  <h2>About the Teacher</h2>
+  <p>I am a piano instructor with over <strong>1.5 years of experience teaching in music academies and school settings</strong>. I have worked extensively with <strong>autistic and neurodivergent students</strong>, as well as teaching private lessons and <strong>group classes of up to 12 children</strong>.</p>
+  <p>I studied music at <strong>Berklee College of Music</strong>, where I developed a strong foundation in musicianship and modern teaching methods. My lessons are patient, structured, and personalized to help each student build confidence and enjoy learning music.</p>
+</section>
+
+<section>
+  <h2>Teaching Approach</h2>
+  <ul>
+    <li>Clear structure and consistent routines</li>
+    <li>Strong fundamentals and musical understanding</li>
+    <li>Lessons adapted to each student’s pace and learning style</li>
+    <li>Encouraging, supportive, and goal-oriented environment</li>
+  </ul>
+</section>
+
+<section class="highlight">
+  <h2>Lesson Options</h2>
+  <div class="rates">
+    <div class="rate-card">
+      <h3>30 Minutes</h3>
+      <p>Great for young beginners</p>
+    </div>
+    <div class="rate-card">
+      <h3>45 Minutes</h3>
+      <p>Most popular option</p>
+    </div>
+    <div class="rate-card">
+      <h3>60 Minutes</h3>
+      <p>Ideal for focused progress</p>
+    </div>
+  </div>
+  <p style="text-align:center; margin-top:1.5rem;"><strong>Rates start at $50</strong></p>
+</section>
+
+<section>
+  <h2>Get Started</h2>
+  <p>Whether you’re looking for piano lessons for your child or for yourself, I’d be happy to help you get started.</p>
+  <p><strong>📍 In-person lessons in Los Angeles</strong></p>
+  <a class="cta-btn" href="tel:+16177673786">Book Your First Lesson</a>
+</section>
+
+<footer>
+  <p>In-Person Piano Lessons · Los Angeles</p>
+  <p>Kids · Adults · Neurodivergent-friendly</p>
+</footer>
+
+</body>
+</html>
